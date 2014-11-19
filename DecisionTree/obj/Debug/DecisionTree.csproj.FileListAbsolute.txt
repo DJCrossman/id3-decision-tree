@@ -1,0 +1,6 @@
+C:\Users\David\Develop\DecisionTree\DecisionTree\bin\Debug\DecisionTree.exe.config
+C:\Users\David\Develop\DecisionTree\DecisionTree\bin\Debug\DecisionTree.exe
+C:\Users\David\Develop\DecisionTree\DecisionTree\bin\Debug\DecisionTree.pdb
+C:\Users\David\Develop\DecisionTree\DecisionTree\obj\Debug\DecisionTree.csprojResolveAssemblyReference.cache
+C:\Users\David\Develop\DecisionTree\DecisionTree\obj\Debug\DecisionTree.exe
+C:\Users\David\Develop\DecisionTree\DecisionTree\obj\Debug\DecisionTree.pdb
